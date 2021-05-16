@@ -16,3 +16,4 @@
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" />
 <img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" />
 <img align="left" alt="R" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/r.svg" />
+<img align="left" alt="RUST" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/r.svg"/> 
