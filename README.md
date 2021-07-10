@@ -5,7 +5,7 @@
 
 - 🔭 I am currently working on side projects
 - 🌱 I’m currently learning everything 🤣 
-- 👯 I’m collaborating on with [stunt101harm](https://github.com/stunt101harm) to learn JavaScript 
+- 👯 I’m collaborating with [stunt101harm](https://github.com/stunt101harm) to learn JavaScript 
 - 🥅 2021 Goals: Work on a Project related to AI
 - ⚡ Fun fact: Car Enthusiast
 
